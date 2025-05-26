@@ -25,7 +25,7 @@ Este projeto é um simulador simples para cálculo de valores relacionados a um 
 - HTML5
 - CSS (Bootstrap para estilo)
 - JavaScript puro (ES6+)
-  Obs: Não usei React porque ainda estou me familiarizando com a tecnologia e preferi trabalhar com JavaScript puro.
+- Obs: Não usei React porque ainda estou me familiarizando com a tecnologia e preferi trabalhar com JavaScript puro.
 
 ---
 
